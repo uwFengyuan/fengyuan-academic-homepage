@@ -20,13 +20,13 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a Ph.D. student at the <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>,
-    advised by <a href="https://www.cs.hku.hk/people/academic-staff/qiliu" target="_blank">Prof. Qi Liu</a>.
+    advised by <a href="https://leuchine.github.io/" target="_blank">Prof. Qi Liu</a>.
     I currently work on <a href="https://scholar.google.com/citations?hl=en&user=7gxp6NkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">AI for Finance and Quantitative Finance</a>.
   </p>
   <p>
     I received my master's degree from the <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>,
     where I was advised by <a href="https://jindonggu.github.io/" target="_blank">Dr. Jindong Gu</a>
-    and <a href="https://www.robots.ox.ac.uk/~phst/" target="_blank">Prof. Philip Torr</a>.
+    and <a href="https://eng.ox.ac.uk/people/philip-torr" target="_blank">Prof. Philip Torr</a>.
     Before that, I received my bachelor's degrees from the <a href="https://www.washington.edu/" target="_blank">University of Washington</a>.
   </p>
 
@@ -37,13 +37,13 @@ portrait_caption: >-
 education:
 - name: <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>
   position: >- 
-    Ph.D. student; advised by <a href="https://www.cs.hku.hk/people/academic-staff/qiliu" target="_blank">Prof. Qi Liu</a>;
+    Ph.D. student; advised by <a href="https://leuchine.github.io/" target="_blank">Prof. Qi Liu</a>;
     research in AI for Finance and Quantitative Finance
   date: present
 - name: <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>
   position: >-
     M.Sc. in Advanced Computer Science; advised by <a href="https://jindonggu.github.io/" target="_blank">Dr. Jindong Gu</a>
-    and <a href="https://www.robots.ox.ac.uk/~phst/" target="_blank">Prof. Philip Torr</a>;
+    and <a href="https://eng.ox.ac.uk/people/philip-torr" target="_blank">Prof. Philip Torr</a>;
     worked on origin attribution and adversarial robustness for vision-language models
   date: Oct. 2022 - Oct. 2023
 - name: <a href="https://www.washington.edu/" target="_blank">University of Washington</a>
@@ -55,7 +55,7 @@ experience:
 - name: <a href="https://roboticsx.tencent.com/" target="_blank">Tencent Robotics X</a>
   position: Research Intern
   description: >-
-    Advised by Dr. Rui Zhao; studied adversarial manipulation in multi-agent systems, factuality and reasoning in vision-language models,
+    Advised by <a href="https://ruizhaogit.github.io/" target="_blank">Dr. Rui Zhao</a>; studied adversarial manipulation in multi-agent systems, factuality and reasoning in vision-language models,
     and self-play for LLM-based agents
   date: Jan. 2024 - Oct. 2024
 - name: <a href="https://eng.ox.ac.uk/" target="_blank">Department of Engineering Science, University of Oxford</a>
@@ -67,6 +67,6 @@ experience:
 - name: <a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">Institute for Interdisciplinary Information Sciences, Tsinghua University</a>
   position: Research Intern, ADL Group
   description: >-
-    Advised by <a href="https://iiis.tsinghua.edu.cn/en/jianli/" target="_blank">Prof. Jian Li</a>;
+    Advised by <a href="https://people.iiis.tsinghua.edu.cn/~jianli/" target="_blank">Prof. Jian Li</a>;
     worked on automated feature generation for tabular machine learning and smart beta modeling with multi-factor financial data
   date: May 2022 - Sep. 2022

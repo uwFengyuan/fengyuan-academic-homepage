@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Clarifymt-bench: Benchmarking and improving multi-turn clarification f">
-  <rect width="900" height="560" fill="#f2eadb"/>
-  <path d="M60 430 C160 320, 240 460, 360 340 S590 260, 830 120" fill="none" stroke="#b55a3c" stroke-width="16" stroke-linecap="round" opacity="0.16"/>
-  <path d="M78 122 C210 78, 332 84, 486 146 S730 248, 830 176" fill="none" stroke="#274c43" stroke-width="5" stroke-linecap="round" opacity="0.26"/>
-  <circle cx="720" cy="138" r="54" fill="none" stroke="#274c43" stroke-width="9" opacity="0.42"/>
-  <rect x="72" y="72" width="756" height="416" fill="none" stroke="#b55a3c" stroke-width="3" opacity="0.18"/>
-  <text x="86" y="372" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#b55a3c">Clarification</text>
-  <text x="86" y="424" font-family="Arial, sans-serif" font-size="24" fill="#274c43">arXiv / 2025</text>
-</svg>
