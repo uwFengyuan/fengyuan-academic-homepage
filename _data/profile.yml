@@ -28,8 +28,8 @@ short_bio: >-
     degree from the <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>, where I was advised by
     <a href="https://jindonggu.github.io/" target="_blank">Dr. Jindong Gu</a> and
     <a href="https://eng.ox.ac.uk/people/philip-torr" target="_blank">Prof. Philip Torr</a>. Before that, I received
-    two bachelor's degrees from the <a href="https://www.washington.edu/" target="_blank">University of Washington</a>:
-    B.Sc. in Computer Science and B.Sc. in Applied Computational Mathematical Sciences (Data Science &amp; Statistics).
+    a double major from the <a href="https://www.washington.edu/" target="_blank">University of Washington</a>:
+    Computer Science and Applied Computational Mathematical Sciences (Data Science &amp; Statistics).
   </p>
   <p>
     My previous research spans vision-language robustness, multi-agent systems, and tabular learning. At Oxford, I
@@ -56,18 +56,18 @@ education:
   logo: /assets/images/logos/hku.jpg
   position: Ph.D. Student
   location: Hong Kong SAR, China
-  date: Present
+  date: Sep. 2025 - Jun. 2029 (Expected)
 - name: <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>
   logo: /assets/images/logos/oxford.svg
   position: M.Sc. in Advanced Computer Science
   location: Oxford, United Kingdom
-  date: Oct. 2022 - Oct. 2023
+  date: Oct. 2022 - Oct. 2024
 - name: <a href="https://www.washington.edu/" target="_blank">University of Washington</a>
   logo: /assets/images/logos/uw.png
   position: >-
     B.Sc. in Computer Science; B.Sc. in Applied Computational Mathematical Sciences (Data Science & Statistics)
   location: Seattle, WA, USA
-  date: Sep. 2017 - Dec. 2020
+  date: Sep. 2017 - Mar. 2021
 
 experience:
 - name: <a href="https://roboticsx.tencent.com/" target="_blank">Tencent Robotics X</a>
