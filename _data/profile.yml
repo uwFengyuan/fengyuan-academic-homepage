@@ -53,17 +53,20 @@ education:
 
 experience:
 - name: <a href="https://roboticsx.tencent.com/" target="_blank">Tencent Robotics X</a>
-  position: >-
-    Research Intern; advised by Dr. Rui Zhao; studied adversarial manipulation in multi-agent systems, factuality and reasoning in vision-language models,
+  position: Research Intern
+  description: >-
+    Advised by Dr. Rui Zhao; studied adversarial manipulation in multi-agent systems, factuality and reasoning in vision-language models,
     and self-play for LLM-based agents
   date: Jan. 2024 - Oct. 2024
 - name: <a href="https://eng.ox.ac.uk/" target="_blank">Department of Engineering Science, University of Oxford</a>
-  position: >-
-    Research Intern, Torr Vision Group; developed OCC-CLIP for model-agnostic image origin attribution and CroPA for
+  position: Research Intern, Torr Vision Group
+  description: >-
+    Developed OCC-CLIP for model-agnostic image origin attribution and CroPA for
     adversarial transferability across prompts in vision-language models
   date: May 2023 - Dec. 2023
 - name: <a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">Institute for Interdisciplinary Information Sciences, Tsinghua University</a>
-  position: >-
-    Research Intern, ADL Group; advised by <a href="https://iiis.tsinghua.edu.cn/en/jianli/" target="_blank">Prof. Jian Li</a>;
+  position: Research Intern, ADL Group
+  description: >-
+    Advised by <a href="https://iiis.tsinghua.edu.cn/en/jianli/" target="_blank">Prof. Jian Li</a>;
     worked on automated feature generation for tabular machine learning and smart beta modeling with multi-factor financial data
   date: May 2022 - Sep. 2022

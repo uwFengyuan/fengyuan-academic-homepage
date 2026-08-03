@@ -52,6 +52,22 @@ h1, h2, h3, h4, h5, h6,
     font-weight: 400;
 }
 
+.profile-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.profile-list {
+    color: #3b352e;
+    line-height: 1.65;
+    margin-bottom: 0;
+    padding-left: 1.25rem;
+}
+
+.profile-list li {
+    margin-bottom: 0.45rem;
+}
+
 .profile-portrait {
     width: 100%;
 }
