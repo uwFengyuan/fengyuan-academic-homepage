@@ -59,9 +59,7 @@ education:
   date: Sep. 2025 - Jun. 2029 (Expected)
 - name: <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>
   logo: /assets/images/logos/oxford.svg
-  position: >-
-    M.Sc. in Advanced Computer Science<br>
-    Coursework Distinction
+  position: M.Sc. in Advanced Computer Science
   location: Oxford, United Kingdom
   date: Oct. 2022 - Oct. 2024
 - name: <a href="https://www.washington.edu/" target="_blank">University of Washington</a>
