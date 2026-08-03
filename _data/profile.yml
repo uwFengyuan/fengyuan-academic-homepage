@@ -59,14 +59,17 @@ education:
   date: Sep. 2025 - Jun. 2029 (Expected)
 - name: <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>
   logo: /assets/images/logos/oxford.svg
-  position: M.Sc. in Advanced Computer Science
+  position: >-
+    M.Sc. in Advanced Computer Science<br>
+    Coursework Distinction
   location: Oxford, United Kingdom
   date: Oct. 2022 - Oct. 2024
 - name: <a href="https://www.washington.edu/" target="_blank">University of Washington</a>
   logo: /assets/images/logos/uw.png
   position: >-
     B.Sc. in Computer Science<br>
-    B.Sc. in Applied Computational Mathematical Sciences (Data Science & Statistics)
+    B.Sc. in Applied Computational Mathematical Sciences (Data Science & Statistics)<br>
+    GPA: 3.95/4.0 (around top 1%)
   location: Seattle, WA, USA
   date: Sep. 2017 - Mar. 2021
 
