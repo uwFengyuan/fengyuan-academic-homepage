@@ -3,11 +3,10 @@ secondary_name: ""
 navbar_name: "Fengyuan Liu"
 
 positions:
-- name: Ph.D. Researcher
-- name: University of Hong Kong
+- name: Ph.D. Student at the University of Hong Kong
 
 
-email: "fengyuanliu@connect.hku.hk"
+email: "oxfengyuan@gmail.com"
 gscholar: 7gxp6NkAAAAJ
 github: uwFengyuan
 # twitter:
@@ -20,18 +19,15 @@ github: uwFengyuan
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a researcher at the <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>,
-    working on <a href="https://scholar.google.com/citations?hl=en&user=7gxp6NkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">AI for Finance, Quantitative Finance, Reliable AI, and AI Safety</a>.
-    My recent work studies how language models can reason, code, evaluate, and evolve in high-stakes scientific and financial settings.
+    I am a Ph.D. student at the <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>,
+    advised by <a href="https://www.cs.hku.hk/people/academic-staff/qiliu" target="_blank">Prof. Qi Liu</a>.
+    I currently work on <a href="https://scholar.google.com/citations?hl=en&user=7gxp6NkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">AI for Finance and Quantitative Finance</a>.
   </p>
   <p>
-    I build agentic systems for <a href="https://arxiv.org/abs/2607.08332" target="_blank">alpha discovery</a>,
-    <a href="https://aclanthology.org/2026.findings-acl.138.pdf" target="_blank">financial code generation</a>,
-    <a href="https://arxiv.org/abs/2403.09766" target="_blank">model reliability</a>, and
-    <a href="https://aclanthology.org/2025.emnlp-main.611/" target="_blank">multi-agent decision making</a>.
-    See my <a href="https://github.com/uwFengyuan/fengyuan-academic-homepage" target="_blank">GitHub</a>
-    and <a href="https://scholar.google.com/citations?hl=en&user=7gxp6NkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>
-    for source code, papers, and citation updates.
+    I received my master's degree from the <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>,
+    where I was advised by <a href="https://jindonggu.github.io/" target="_blank">Dr. Jindong Gu</a>
+    and <a href="https://www.robots.ox.ac.uk/~phst/" target="_blank">Prof. Philip Torr</a>.
+    Before that, I received my bachelor's degrees from the <a href="https://www.washington.edu/" target="_blank">University of Washington</a>.
   </p>
 
 portrait_url: /assets/images/photos/fengyuan_liu.jpg
@@ -41,22 +37,24 @@ portrait_caption: >-
 education:
 - name: <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>
   position: >- 
-    Research in AI for Finance, Quantitative Finance, Reliable AI, and AI Safety
+    Ph.D. student; advised by <a href="https://www.cs.hku.hk/people/academic-staff/qiliu" target="_blank">Prof. Qi Liu</a>;
+    research in AI for Finance and Quantitative Finance
   date: present
 - name: <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>
   position: >-
-    M.Sc. in Advanced Computer Science; topics included safety of foundation models and multimodal AI
+    M.Sc. in Advanced Computer Science; advised by <a href="https://jindonggu.github.io/" target="_blank">Dr. Jindong Gu</a>
+    and <a href="https://www.robots.ox.ac.uk/~phst/" target="_blank">Prof. Philip Torr</a>;
+    worked on origin attribution and adversarial robustness for vision-language models
   date: Oct. 2022 - Oct. 2023
 - name: <a href="https://www.washington.edu/" target="_blank">University of Washington</a>
   position: >-
-    B.Sc. in Computer Science; B.Sc. in Applied Computational Mathematical Sciences (Data Science & Statistics);
-    GPA 3.95/4.0
+    B.Sc. in Computer Science; B.Sc. in Applied Computational Mathematical Sciences (Data Science & Statistics)
   date: Sep. 2017 - Dec. 2020
 
 experience:
-- name: <a href="https://ai.tencent.com/ailab/en/index" target="_blank">Tencent AI Lab</a> & Robotics X
+- name: <a href="https://roboticsx.tencent.com/" target="_blank">Tencent Robotics X</a>
   position: >-
-    Research Intern; studied adversarial manipulation in multi-agent systems, factuality and reasoning in vision-language models,
+    Research Intern; advised by Dr. Rui Zhao; studied adversarial manipulation in multi-agent systems, factuality and reasoning in vision-language models,
     and self-play for LLM-based agents
   date: Jan. 2024 - Oct. 2024
 - name: <a href="https://eng.ox.ac.uk/" target="_blank">Department of Engineering Science, University of Oxford</a>
@@ -66,39 +64,6 @@ experience:
   date: May 2023 - Dec. 2023
 - name: <a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">Institute for Interdisciplinary Information Sciences, Tsinghua University</a>
   position: >-
-    Research Intern, ADL Group; worked on OpenFE for automated feature generation and smart beta modeling with multi-factor data
+    Research Intern, ADL Group; advised by <a href="https://iiis.tsinghua.edu.cn/en/jianli/" target="_blank">Prof. Jian Li</a>;
+    worked on automated feature generation for tabular machine learning and smart beta modeling with multi-factor financial data
   date: May 2022 - Sep. 2022
-
-awards:
-- name: Google Scholar citations
-  date: "320+"
-- name: Publications in ACL, EMNLP, ECCV, ICLR, ICML, and Nature Biomedical Engineering
-  date: "2023-2026"
-- name: CFA Exam Level I
-  date: Pass
-- name: Conference reviewer
-  date: NeurIPS 2023
-
-activities:
-- name: "Which Model Generated This Image?"
-  detail: "Talk at <a href=\"https://eccv.ecva.net/\" target=\"_blank\">ECCV 2024</a>, Milan / online"
-  date: Oct. 2024
-- name: Oxford Fintech & Legaltech Society
-  detail: "Research Associate"
-  date: Jan. 2023 - Apr. 2023
-- name: Studies, Experiments, Applications Academy
-  detail: "Honor Scholar of Mathematical Studies & Computer Science Department"
-  date: Sep. 2022 - Mar. 2023
-- name: WWW2025 Multimodal Dialogue System Intent Recognition Challenge
-  detail: "<a href=\"https://tianchi.aliyun.com/\" target=\"_blank\">Tianchi competition</a>"
-  date: Nov. 2024 - present
-
-skills:
-- name: Programming
-  detail: Python, Java, C#, JavaScript, R, SQL
-- name: Scientific Computing
-  detail: MATLAB, machine learning, deep learning, stochastic processes
-- name: Academic Writing
-  detail: LaTeX
-- name: Interests
-  detail: Chinese Kung Fu, piano, swimming, ancient Chinese philosophy
