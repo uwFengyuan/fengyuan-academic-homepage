@@ -1,4 +1,4 @@
 ---
-title: "🎉 Our paper was accepted to ACL 2026 Findings."
+title: "🎉 One paper has been accepted to ACL 2026 Findings."
 date: 2026-07-01 00:00:00 +0000
 ---
