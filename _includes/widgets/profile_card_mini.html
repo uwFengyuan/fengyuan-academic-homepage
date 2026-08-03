@@ -8,13 +8,13 @@
                         <div class="figure d-none d-md-block profile-portrait text-center">
                             <img 
                                 src="{{ site.data.profile.portrait_url | relative_url }}" 
-                                class="figure-img img-fluid" 
+                                class="figure-img img-fluid profile-card-portrait"
                                 data-toggle="tooltip" 
                                 data-placement="top" 
                                 title="{{ site.data.profile.portrait_caption }}">
                         </div>
                         <div class="mb-3 d-md-none text-center profile-portrait">
-                            <img src="{{ site.data.profile.portrait_url | relative_url }}" class="rounded-circle" style="max-width: 50%;" alt="Portrait">
+                            <img src="{{ site.data.profile.portrait_url | relative_url }}" class="rounded-circle profile-card-portrait" alt="Portrait">
                         </div>
                         {% endif %}
                     </div>
@@ -32,6 +32,17 @@
                         {% endfor %}
                     </div>
                 </div>
+
+                {% if site.data.profile.research_interests %}
+                <div class="row small pt-2">
+                    <div class="col text-center profile-research">
+                        <div class="profile-research-title">Research</div>
+                        {% for interest in site.data.profile.research_interests %}
+                        <div class="profile-research-item">{{ interest }}</div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
 
                 <div class="row small">
                     <div class="col text-center">

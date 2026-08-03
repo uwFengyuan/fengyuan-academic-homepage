@@ -5,6 +5,10 @@ navbar_name: "Fengyuan Liu"
 positions:
 - name: Ph.D. Student at the University of Hong Kong
 
+research_interests:
+- AI for Finance
+- Quantitative NLP
+- LLM-driven Quant Research
 
 email: "oxfengyuan@gmail.com"
 gscholar: 7gxp6NkAAAAJ
@@ -20,53 +24,64 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a Ph.D. student at the <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>,
-    advised by <a href="https://leuchine.github.io/" target="_blank">Prof. Qi Liu</a>.
-    I currently work on <a href="https://scholar.google.com/citations?hl=en&user=7gxp6NkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">AI for Finance and Quantitative Finance</a>.
+    advised by <a href="https://leuchine.github.io/" target="_blank">Prof. Qi Liu</a>. I received my master's
+    degree from the <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>, where I was advised by
+    <a href="https://jindonggu.github.io/" target="_blank">Dr. Jindong Gu</a> and
+    <a href="https://eng.ox.ac.uk/people/philip-torr" target="_blank">Prof. Philip Torr</a>. Before that, I received
+    two bachelor's degrees from the <a href="https://www.washington.edu/" target="_blank">University of Washington</a>:
+    B.Sc. in Computer Science and B.Sc. in Applied Computational Mathematical Sciences (Data Science &amp; Statistics).
   </p>
   <p>
-    I received my master's degree from the <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>,
-    where I was advised by <a href="https://jindonggu.github.io/" target="_blank">Dr. Jindong Gu</a>
-    and <a href="https://eng.ox.ac.uk/people/philip-torr" target="_blank">Prof. Philip Torr</a>.
-    Before that, I received my bachelor's degrees from the <a href="https://www.washington.edu/" target="_blank">University of Washington</a>.
+    My previous research spans vision-language robustness, multi-agent systems, and tabular learning. At Oxford, I
+    worked on image origin attribution and adversarial robustness for vision-language models. At
+    <a href="https://roboticsx.tencent.com/" target="_blank">Tencent Robotics X</a>, advised by
+    <a href="https://ruizhaogit.github.io/" target="_blank">Dr. Rui Zhao</a>, I studied adversarial manipulation in
+    multi-agent systems, factuality and reasoning in vision-language models, and self-play for LLM-based agents. At
+    <a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">Tsinghua IIIS</a>, advised by
+    <a href="https://people.iiis.tsinghua.edu.cn/~jianli/" target="_blank">Prof. Jian Li</a>, I worked on automated
+    feature generation for tabular machine learning and smart beta modeling with multi-factor financial data.
+  </p>
+  <p>
+    My current research focuses on
+    <a href="https://scholar.google.com/citations?hl=en&user=7gxp6NkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">AI for Finance</a>
+    and Quantitative NLP. I welcome collaborations in these directions.
   </p>
 
-portrait_url: /assets/images/photos/fengyuan_liu.jpg
+portrait_url: /assets/images/photos/taiji-profile.png
 portrait_caption: >-
   Fengyuan Liu
 
 education:
 - name: <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>
-  position: >- 
-    Ph.D. student; advised by <a href="https://leuchine.github.io/" target="_blank">Prof. Qi Liu</a>;
-    research in AI for Finance and Quantitative Finance
-  date: present
+  logo: /assets/images/logos/hku.jpg
+  position: Ph.D. Student
+  location: Hong Kong SAR, China
+  date: Present
 - name: <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>
-  position: >-
-    M.Sc. in Advanced Computer Science; advised by <a href="https://jindonggu.github.io/" target="_blank">Dr. Jindong Gu</a>
-    and <a href="https://eng.ox.ac.uk/people/philip-torr" target="_blank">Prof. Philip Torr</a>;
-    worked on origin attribution and adversarial robustness for vision-language models
+  logo: /assets/images/logos/oxford.svg
+  position: M.Sc. in Advanced Computer Science
+  location: Oxford, United Kingdom
   date: Oct. 2022 - Oct. 2023
 - name: <a href="https://www.washington.edu/" target="_blank">University of Washington</a>
+  logo: /assets/images/logos/uw.png
   position: >-
     B.Sc. in Computer Science; B.Sc. in Applied Computational Mathematical Sciences (Data Science & Statistics)
+  location: Seattle, WA, USA
   date: Sep. 2017 - Dec. 2020
 
 experience:
 - name: <a href="https://roboticsx.tencent.com/" target="_blank">Tencent Robotics X</a>
+  logo: /assets/images/logos/tencent.png
   position: Research Intern
-  description: >-
-    Advised by <a href="https://ruizhaogit.github.io/" target="_blank">Dr. Rui Zhao</a>; studied adversarial manipulation in multi-agent systems, factuality and reasoning in vision-language models,
-    and self-play for LLM-based agents
+  location: Shenzhen, China
   date: Jan. 2024 - Oct. 2024
 - name: <a href="https://eng.ox.ac.uk/" target="_blank">Department of Engineering Science, University of Oxford</a>
+  logo: /assets/images/logos/oxford.svg
   position: Research Intern, Torr Vision Group
-  description: >-
-    Developed OCC-CLIP for model-agnostic image origin attribution and CroPA for
-    adversarial transferability across prompts in vision-language models
+  location: Oxford, United Kingdom
   date: May 2023 - Dec. 2023
 - name: <a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">Institute for Interdisciplinary Information Sciences, Tsinghua University</a>
+  logo: /assets/images/logos/tsinghua.svg
   position: Research Intern, ADL Group
-  description: >-
-    Advised by <a href="https://people.iiis.tsinghua.edu.cn/~jianli/" target="_blank">Prof. Jian Li</a>;
-    worked on automated feature generation for tabular machine learning and smart beta modeling with multi-factor financial data
+  location: Beijing, China
   date: May 2022 - Sep. 2022

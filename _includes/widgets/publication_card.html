@@ -1,12 +1,20 @@
 {% assign publications = include.publications %}
+{% assign publications_by_year = publications | group_by_exp: "item", "item.date | date: '%Y'" %}
 <section class="content-section publication-section">
     <div class="section-heading-row">
         <h2>{% if include.title %}{{ include.title }}{% else %}Selected Recent Publications{% endif %}</h2>
         <a class="section-link" href="{{ 'publications' | relative_url }}">View All <i class="fas fa-arrow-right"></i></a>
     </div>
     <div class="publication-list">
-    {% for item in publications limit:include.limit %}
-        {% include widgets/publication_item.html item=item first=false last=false %}    
+    {% for year_group in publications_by_year %}
+        <div class="publication-year-group">
+            <h3 class="publication-year-heading">{{ year_group.name }}</h3>
+            <div class="publication-year-list">
+            {% for item in year_group.items %}
+                {% include widgets/publication_item.html item=item first=false last=false %}
+            {% endfor %}
+            </div>
+        </div>
     {% endfor %}
     </div>
 </section>
