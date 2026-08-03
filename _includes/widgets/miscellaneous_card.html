@@ -1,0 +1,17 @@
+{% if site.data.profile.miscellaneous %}
+<section class="content-section">
+    <h2>Miscellaneous</h2>
+    <div class="misc-list">
+        {% for group in site.data.profile.miscellaneous %}
+        <div class="misc-group">
+            <div class="misc-title">{{ group.title }}</div>
+            <ul class="misc-items">
+                {% for item in group.items %}
+                <li>{{ item }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+{% endif %}
