@@ -9,7 +9,7 @@ positions:
 
 email: "fengyuanliu@connect.hku.hk"
 gscholar: 7gxp6NkAAAAJ
-# github:
+github: uwFengyuan
 # twitter:
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -20,12 +20,18 @@ gscholar: 7gxp6NkAAAAJ
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a researcher at the University of Hong Kong working on AI for Finance, Quantitative Finance, Reliable AI, and AI Safety.
+    I am a researcher at the <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>,
+    working on <a href="https://scholar.google.com/citations?hl=en&user=7gxp6NkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">AI for Finance, Quantitative Finance, Reliable AI, and AI Safety</a>.
     My recent work studies how language models can reason, code, evaluate, and evolve in high-stakes scientific and financial settings.
   </p>
   <p>
-    I build agentic systems for alpha discovery, financial code generation, model reliability, and multi-agent decision making.
-    This page is initialized from my public Google Scholar profile and should be refined with project pages, code links, and selected paper figures over time.
+    I build agentic systems for <a href="https://arxiv.org/abs/2607.08332" target="_blank">alpha discovery</a>,
+    <a href="https://aclanthology.org/2026.findings-acl.138.pdf" target="_blank">financial code generation</a>,
+    <a href="https://arxiv.org/abs/2403.09766" target="_blank">model reliability</a>, and
+    <a href="https://aclanthology.org/2025.emnlp-main.611/" target="_blank">multi-agent decision making</a>.
+    See my <a href="https://github.com/uwFengyuan/fengyuan-academic-homepage" target="_blank">GitHub</a>
+    and <a href="https://scholar.google.com/citations?hl=en&user=7gxp6NkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>
+    for source code, papers, and citation updates.
   </p>
 
 portrait_url: /assets/images/photos/fengyuan_liu.jpg
@@ -33,32 +39,32 @@ portrait_caption: >-
   Fengyuan Liu
 
 education:
-- name: University of Hong Kong
+- name: <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>
   position: >- 
     Research in AI for Finance, Quantitative Finance, Reliable AI, and AI Safety
   date: present
-- name: University of Oxford
+- name: <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>
   position: >-
     M.Sc. in Advanced Computer Science; topics included safety of foundation models and multimodal AI
   date: Oct. 2022 - Oct. 2023
-- name: University of Washington
+- name: <a href="https://www.washington.edu/" target="_blank">University of Washington</a>
   position: >-
     B.Sc. in Computer Science; B.Sc. in Applied Computational Mathematical Sciences (Data Science & Statistics);
     GPA 3.95/4.0
   date: Sep. 2017 - Dec. 2020
 
 experience:
-- name: Tencent AI Lab & Robotics X
+- name: <a href="https://ai.tencent.com/ailab/en/index" target="_blank">Tencent AI Lab</a> & Robotics X
   position: >-
     Research Intern; studied adversarial manipulation in multi-agent systems, factuality and reasoning in vision-language models,
     and self-play for LLM-based agents
   date: Jan. 2024 - Oct. 2024
-- name: Department of Engineering Science, University of Oxford
+- name: <a href="https://eng.ox.ac.uk/" target="_blank">Department of Engineering Science, University of Oxford</a>
   position: >-
     Research Intern, Torr Vision Group; developed OCC-CLIP for model-agnostic image origin attribution and CroPA for
     adversarial transferability across prompts in vision-language models
   date: May 2023 - Dec. 2023
-- name: Institute for Interdisciplinary Information Sciences, Tsinghua University
+- name: <a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">Institute for Interdisciplinary Information Sciences, Tsinghua University</a>
   position: >-
     Research Intern, ADL Group; worked on OpenFE for automated feature generation and smart beta modeling with multi-factor data
   date: May 2022 - Sep. 2022
@@ -75,7 +81,7 @@ awards:
 
 activities:
 - name: "Which Model Generated This Image?"
-  detail: "Talk at ECCV 2024, Milan / online"
+  detail: "Talk at <a href=\"https://eccv.ecva.net/\" target=\"_blank\">ECCV 2024</a>, Milan / online"
   date: Oct. 2024
 - name: Oxford Fintech & Legaltech Society
   detail: "Research Associate"
@@ -84,7 +90,7 @@ activities:
   detail: "Honor Scholar of Mathematical Studies & Computer Science Department"
   date: Sep. 2022 - Mar. 2023
 - name: WWW2025 Multimodal Dialogue System Intent Recognition Challenge
-  detail: "Tianchi competition"
+  detail: "<a href=\"https://tianchi.aliyun.com/\" target=\"_blank\">Tianchi competition</a>"
   date: Nov. 2024 - present
 
 skills:
