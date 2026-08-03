@@ -1,0 +1,145 @@
+@charset "utf-8";
+body {
+    color: #24211d;
+    background:
+        linear-gradient(90deg, rgba(41, 77, 68, 0.035) 1px, transparent 1px),
+        linear-gradient(180deg, rgba(122, 44, 38, 0.025) 1px, transparent 1px),
+        #f8f5ec;
+    background-size: 34px 34px, 34px 34px, auto;
+    font-family: "Lato", "Noto Serif SC", sans-serif;
+    font-weight: 400;
+    padding-top: 5.0rem;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    color: #1f342f;
+    font-family: "Fira Sans", "Lato", sans-serif;
+    font-weight: 700;
+}
+
+.card {
+    border: 1px solid rgba(60, 52, 42, 0.08) !important;
+    border-radius: 8px!important;
+    box-shadow: 0 10px 28px rgba(48, 42, 32, 0.055) !important;
+}
+
+.card-img-overlay {
+    border-radius: 8px!important;
+}
+
+.rounded-xl {
+    border-radius: 8px!important;
+}
+
+.rounded-xl-bottom {
+    border-bottom-right-radius: 8px !important;
+    border-bottom-left-radius: 8px !important;
+}
+
+.rounded-xl-top {
+    border-top-left-radius: 8px !important;
+    border-top-right-radius: 8px !important;
+}
+
+
+.text-profile-position {
+    font-weight: 400;
+}
+
+.text-profile-bio {
+    /* font-family: "Raleway"; */
+    font-weight: 400;
+}
+
+.navbar {
+    background-color: rgba(250, 247, 239, 0.82) !important;
+    border-bottom: 1px solid rgba(91, 55, 35, 0.12);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+}
+
+.navbar-brand strong {
+    color: #203c35;
+    letter-spacing: 0;
+}
+
+.nav-link {
+    color: #3c4f49 !important;
+}
+
+.nav-item.active .nav-link,
+.nav-link:hover {
+    color: #9b3f34 !important;
+}
+
+.bg-white {
+    background-color: rgba(255, 253, 248, 0.94) !important;
+}
+
+.border-gray {
+    border-color: rgba(68, 57, 44, 0.10) !important;
+}
+
+a {
+    color: #7f382f;
+}
+
+a:hover {
+    color: #294d44;
+}
+
+.badge-publication {
+    background-color: #eef1ea;
+    border: 1px solid rgba(41, 77, 68, 0.16);
+    color: #294d44;
+}
+
+.abstract-links a {
+    color: #8f3d32;
+    margin-right: 0.35rem;
+}
+
+.inline-badge {
+    height: 16px;
+    vertical-align: -10%;
+    margin-right: 2px;
+    line-break: unset;
+}
+
+.no-break {
+    white-space: nowrap;
+}
+
+.cover-image {
+    width: 180px;
+    max-height: 120px;
+}
+
+.abstract-body {
+    min-height: 100px;
+}
+
+img.lazy {
+    background-image: url('images/loading.gif');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 50px 50px;
+    min-height: 80px;
+}
+
+div.lazy {
+    background-image: url('images/loading.gif');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 50px 50px;
+    min-height: 80px;
+}
+
+.badge-publication {
+    font-size: 100%;
+}
+
+.email-text {
+    font-family: Source Code Pro, monospace;
+}

@@ -1,0 +1,7 @@
+pages:
+# NOTE: `name` must match the `navbar_title` field in the page front matter
+#       so the active navigation item is highlighted correctly.
+- name: Home
+  url: /
+- name: Publications
+  url: /publications
