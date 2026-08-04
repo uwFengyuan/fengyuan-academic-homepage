@@ -72,6 +72,11 @@ education:
   date: Sep. 2017 - Mar. 2021
 
 experience:
+- name: <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>
+  logo: /assets/images/logos/hku.jpg
+  position: Research Assistant
+  location: Hong Kong SAR, China
+  date: Apr. 2025 - Aug. 2025
 - name: <a href="https://roboticsx.tencent.com/" target="_blank">Tencent Robotics X</a>
   logo: /assets/images/logos/tencent.png
   position: Research Intern
@@ -87,6 +92,16 @@ experience:
   position: Research Intern, ADL Group
   location: Beijing, China
   date: May 2022 - Sep. 2022
+- name: <a href="https://www.berkeley.edu/" target="_blank">University of California, Berkeley</a>
+  logo: /assets/images/logos/berkeley.png
+  position: Research Intern
+  location: Berkeley, CA, USA
+  date: Sep. 2021 - Jan. 2022
+- name: <a href="https://wxml.math.washington.edu/" target="_blank">Washington Experimental Mathematics Lab, University of Washington</a>
+  logo: /assets/images/logos/uw.png
+  position: Undergraduate Researcher
+  location: Seattle, WA, USA
+  date: Jan. 2020 - Mar. 2020
 
 miscellaneous:
 - title: Certifications
