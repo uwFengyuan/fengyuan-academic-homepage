@@ -15,7 +15,7 @@ This site is built with Jekyll and adapted from the public
 - News entries: `_news/`
 - Publications: `_publications/`
 - Publication preview images: `assets/images/covers/`
-- Portrait image: `assets/images/photos/fengyuan_liu.jpg`
+- Portrait image: `assets/images/photos/yinyang-profile.png`
 - Site styling: `assets/css/global.css`
 
 ## Publications
