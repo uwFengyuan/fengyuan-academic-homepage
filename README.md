@@ -9,14 +9,14 @@ This site is built with Jekyll and adapted from the public
 
 ## Content
 
-- Profile, bio, education, and experience: `_data/profile.yml`
-- Homepage section visibility: `_data/display.yml`
-- Navigation items: `_data/navigation.yml`
-- News entries: `_news/`
-- Publications: `_publications/`
-- Publication preview images: `assets/images/covers/`
-- Portrait image: `assets/images/photos/yinyang-profile.png`
-- Site styling: `assets/css/global.css`
+The site follows a simple Jekyll structure:
+
+- profile data and homepage section configuration live under `_data/`
+- news entries live under `_news/`
+- publications live under `_publications/`
+- reusable page components live under `_includes/`
+- layouts live under `_layouts/`
+- static assets and styling live under `assets/`
 
 ## Publications
 
