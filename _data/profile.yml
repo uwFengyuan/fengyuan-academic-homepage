@@ -58,7 +58,7 @@ education:
   location: Hong Kong SAR, China
   date: Sep. 2025 - Jun. 2029 (Expected)
 - name: <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>
-  logo: /assets/images/logos/oxford.svg
+  logo: /assets/images/logos/oxford.png
   position: M.Sc. in Advanced Computer Science
   location: Oxford, United Kingdom
   date: Oct. 2022 - Oct. 2024
@@ -78,7 +78,7 @@ experience:
   location: Shenzhen, China
   date: Jan. 2024 - Oct. 2024
 - name: <a href="https://eng.ox.ac.uk/" target="_blank">Department of Engineering Science, University of Oxford</a>
-  logo: /assets/images/logos/oxford.svg
+  logo: /assets/images/logos/oxford.png
   position: Research Intern, Torr Vision Group
   location: Oxford, United Kingdom
   date: May 2023 - Dec. 2023
