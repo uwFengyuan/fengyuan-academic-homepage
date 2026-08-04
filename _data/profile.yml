@@ -82,14 +82,14 @@ experience:
   position: Research Intern
   location: Shenzhen, China
   date: Jan. 2024 - Oct. 2024
-- name: <a href="https://eng.ox.ac.uk/" target="_blank">Department of Engineering Science, University of Oxford</a>
+- name: <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>
   logo: /assets/images/logos/oxford.png
-  position: Research Intern, Torr Vision Group
+  position: Research Intern, Torr Vision Group, Department of Engineering Science
   location: Oxford, United Kingdom
   date: May 2023 - Dec. 2023
-- name: <a href="https://iiis.tsinghua.edu.cn/en/" target="_blank">Institute for Interdisciplinary Information Sciences, Tsinghua University</a>
+- name: <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>
   logo: /assets/images/logos/tsinghua.svg
-  position: Research Intern, ADL Group
+  position: Research Intern, ADL Group, Institute for Interdisciplinary Information Sciences
   location: Beijing, China
   date: May 2022 - Sep. 2022
 - name: <a href="https://www.berkeley.edu/" target="_blank">University of California, Berkeley</a>
@@ -97,9 +97,9 @@ experience:
   position: Research Intern
   location: Berkeley, CA, USA
   date: Sep. 2021 - Jan. 2022
-- name: <a href="https://wxml.math.washington.edu/" target="_blank">Washington Experimental Mathematics Lab, University of Washington</a>
+- name: <a href="https://www.washington.edu/" target="_blank">University of Washington</a>
   logo: /assets/images/logos/uw.png
-  position: Undergraduate Researcher
+  position: Undergraduate Researcher, Washington Experimental Mathematics Lab
   location: Seattle, WA, USA
   date: Jan. 2020 - Mar. 2020
 
