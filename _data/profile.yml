@@ -70,6 +70,11 @@ education:
     GPA: 3.95/4.0 (around top 1%)
   location: Seattle, WA, USA
   date: Sep. 2017 - Mar. 2021
+- name: Nantong Middle School
+  logo: /assets/images/logos/nantong-middle-school.png
+  position: High School
+  location: Nantong, Jiangsu, China
+  date: Sep. 2014 - Jun. 2017
 
 experience:
 - name: <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>
