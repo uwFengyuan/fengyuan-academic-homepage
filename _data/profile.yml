@@ -54,7 +54,9 @@ portrait_caption: >-
 education:
 - name: <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>
   logo: /assets/images/logos/hku.jpg
-  position: Ph.D. Student
+  position: >-
+    Ph.D. Student<br>
+    HKU Presidential PhD Scholarship
   location: Hong Kong SAR, China
   date: Sep. 2025 - Jun. 2029 (Expected)
 - name: <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>
@@ -72,7 +74,9 @@ education:
   date: Sep. 2017 - Mar. 2021
 - name: <a href="https://www.ntzx.cn/" target="_blank">Nantong Middle School</a>
   logo: /assets/images/logos/nantong-middle-school.png
-  position: High School
+  position: >-
+    High School<br>
+    Nantong Middle School Scholarship
   location: Nantong, Jiangsu, China
   date: Sep. 2014 - Jun. 2017
 
